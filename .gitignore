@@ -1,0 +1,12 @@
+# folders
+.vscode
+build
+lib/minilibx-linux
+
+# files
+*.a
+*.o
+*.out
+test*.c
+fdf
+cachegrind*
