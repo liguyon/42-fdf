@@ -1,7 +1,7 @@
 # FdF
 
-My initial dive into graphics programming, using C and 42 School's Minilibx.
-The goal of FdF is to visualize elevation maps using 3D wireframe rendering.
+This 42 Common Core project is my initial dive into graphics programming.
+The aim of FdF is to visualize elevation maps using 3D wireframe rendering.
 
 ## Overview
 ![preview-1](assets/fdf-preview-1.png)
